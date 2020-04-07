@@ -1,3 +1,6 @@
 [submodule "indo-interview"]
 	path = indo-interview
 	url = https://github.com/marifnst/indo-interview.git
+[submodule "indo-authorization"]
+	path = indo-authorization
+	url = https://github.com/marifnst/indo-authorization.git
